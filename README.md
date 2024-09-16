@@ -5,17 +5,17 @@
 ---
 
 ### Hobbies
-- I really enjoy drawing.
-- I also enjoy online games.
-- Sometimes, instead of online games, I play visual novels.
-- When I don't want to do either of those, I watch anime.
-- If not, I read some manga.
-- Sometimes I put on some music while reading.
+-  I really enjoy drawing.
+-  I also enjoy online games.
+-  Sometimes, instead of online games, I play visual novels.
+-  When I don't want to do either of those, I watch anime.
+-  If not, I read some manga.
+-  Sometimes I put on some music while reading.
 
 ---
 
 ### (Some) Interests
-- **In music..**
+-  **In music..**
 
 ![the-cranberries](https://github.com/user-attachments/assets/085d5320-f771-461c-9a75-5d5269b6cfd1)    
 **The Cranberries**
@@ -41,7 +41,7 @@
 
 ---
 
-- **In manga/anime..**
+-  **In manga/anime..**
 
 
 ![goodnight-punpun](https://github.com/user-attachments/assets/4b34f22a-c5c6-41f7-9cfb-c5ef3ed4dc10)     
