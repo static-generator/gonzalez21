@@ -68,3 +68,7 @@
 **Look Back**
 > It tells the story of Ayumu Fujino, a young manga artist who, driven by rivalry and friendship with a reclusive classmate, strives to improve her craft and finds purpose in creating art.
 
+---
+
+*Thank you for reading about my interests! Once again, this is Elisha Gutierrez Moreno, or the CN 21 of 9 - Gonzalez.*
+
