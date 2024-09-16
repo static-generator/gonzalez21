@@ -57,12 +57,14 @@
 ---
 
 
-![lain](https://github.com/user-attachments/assets/33e80dd7-3032-47b7-ad45-9bbfe7b9739a)
+![lain](https://github.com/user-attachments/assets/33e80dd7-3032-47b7-ad45-9bbfe7b9739a)     
+**Serial Experiments Lain**
 > The series follows Lain Iwakura, an adolescent girl in suburban Japan, and her relation to the Wired, a global communications network similar to the internet. Lain features surreal and avant-garde imagery and explores philosophical topics such as reality, identity, and communication.
 
 ---
 
 
-![look-back](https://github.com/user-attachments/assets/6ed940af-ae12-47cf-bb1b-85e454578171)
+![look-back](https://github.com/user-attachments/assets/6ed940af-ae12-47cf-bb1b-85e454578171)     
+**Look Back**
 > It tells the story of Ayumu Fujino, a young manga artist who, driven by rivalry and friendship with a reclusive classmate, strives to improve her craft and finds purpose in creating art.
 
