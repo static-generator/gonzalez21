@@ -70,5 +70,15 @@
 
 ---
 
+### Fun facts (?)
+- I like to learn new languages, but I still need to improve my dedication..
+Right now, I am learning Russian (after giving up on German :c)
+- I use Spotify itself to discover new music.
+- My dream career is to become a psychiatrist.
+- One of some things I've always wanted to do is watch a good horror movie with my friends.
+I think it will be fun for some reason.
+
+---
+
 *Thank you for reading about my interests! Once again, this is Elisha Gutierrez Moreno, or the CN 21 of 9 - Gonzalez.*
 
