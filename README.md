@@ -21,21 +21,25 @@
 **The Cranberries**
 > They are an Irish rock band formed in 1989, in Limerick, Ireland. The band classify themselves as an alternative rock group, but incorporate aspects of indie rock, jangle pop, dream pop, folk rock, post-punk, and pop rock into their sound.
 
+---
 
 ![katie-jane-garside](https://github.com/user-attachments/assets/74ce5106-5bb4-4efe-a1c8-4232a3b9db4c)      
 **Katie Jane Garside**
 > Katrina Jane Garside is an English singer, songwriter, and visual artist. She is known for her musical projects in a range of genres, such as noise rock, alternative metal, acoustic, and neofolk, and vocals that range from childlike whispers to harsh scream singing. She has been in multiple bands and projects since the 1990s.
 
+---
 
 ![weezer](https://i.pinimg.com/474x/a6/b2/fa/a6b2fa1b0c724150acfb596bcde4f0fc.jpg)   
 **Weezer**
 > Weezer is an American rock band formed in Los Angeles, California, in 1992. Since 2001, the band has consisted of Rivers Cuomo, Patrick Wilson, Brian Bell, and Scott Shriner. Their genres include alternative rock, power pop, pop rock, indie rock, pop-punk, geek rock, and emo.
 
+---
 
 ![boa](https://github.com/user-attachments/assets/84c81e00-040f-4b4a-9696-63bafac24a99)     
 **Bôa**
 > Bôa are an English alternative rock band formed in London in 1993, by drummer Ed Herten, keyboard player Paul Turrell, and guitarist/vocalist Steve Rodgers.
 
+---
 
 - **In manga/anime..**
 
@@ -44,10 +48,21 @@
 **Goodnight Punpun**
 > Goodnight Punpun follows the life experiences of Punpun Onodera, a young boy living in Japan, as well as a few of his friends. The story follows Punpun as he grows up, splitting it into around four stages of his life: elementary school, middle school, high school, and his early 20s.
 
-
+---
 
 ![evangelion](https://github.com/user-attachments/assets/6038bbdd-0237-4824-af3a-e5430c476358)     
 **Neon Genesis Evangelion**
 > The series explores the experiences and emotions of the Evangelion pilots and Nerv members as they battle Angels. They are called upon to understand the ultimate cause of events and the motives behind human action.
 
+---
+
+
+![lain](https://github.com/user-attachments/assets/33e80dd7-3032-47b7-ad45-9bbfe7b9739a)
+> The series follows Lain Iwakura, an adolescent girl in suburban Japan, and her relation to the Wired, a global communications network similar to the internet. Lain features surreal and avant-garde imagery and explores philosophical topics such as reality, identity, and communication.
+
+---
+
+
+![look-back](https://github.com/user-attachments/assets/6ed940af-ae12-47cf-bb1b-85e454578171)
+> It tells the story of Ayumu Fujino, a young manga artist who, driven by rivalry and friendship with a reclusive classmate, strives to improve her craft and finds purpose in creating art.
 
